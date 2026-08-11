@@ -17,14 +17,14 @@ and AI-powered applications.
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```java
 public class Sujal {
 
     private final String role = "Java Backend Developer";
 
-    private final String[] focus = {
+    private final String[] primaryFocus = {
         "Java",
         "Spring Boot",
         "REST APIs",
@@ -38,6 +38,14 @@ public class Sujal {
         "API Security",
         "Cloud Technologies",
         "AI-powered Applications"
+    };
+
+    private final String[] engineeringConcepts = {
+        "Layered Architecture",
+        "Transactions",
+        "Concurrency",
+        "Database Locking",
+        "Design Patterns"
     };
 
     private final String approach =
