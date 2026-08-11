@@ -2,13 +2,13 @@
 
 ### Java Backend Developer · Spring Boot · REST APIs · SQL
 
-Computer Science Engineering graduate focused on **backend development with Java and Spring Boot**.
+I'm a Computer Science Engineering graduate focused on **backend development with Java and Spring Boot**.
 
-I enjoy building API-driven applications, working with relational databases, implementing authentication and authorization, and understanding how different layers of a backend system work together.
+I build backend applications around **REST APIs, authentication & authorization, database persistence, and third-party service integrations**. My recent work includes building an **Airbnb-like booking system with JWT security and Razorpay payment integration**.
 
-Currently focused on becoming a stronger backend engineer by going deeper into **Java, Spring Boot, database design, API development, security, and cloud technologies**.
+Currently, I'm focused on becoming a stronger backend engineer by going deeper into **Java, Spring Boot, database design, API development, security, and software engineering fundamentals**.
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -22,114 +22,148 @@ Currently focused on becoming a stronger backend engineer by going deeper into *
 ## 👨‍💻 About Me
 
 * 🎓 **Computer Science Engineering** graduate
-* ☕ Building backend applications using **Java & Spring Boot**
-* 🌐 Designing and developing **RESTful APIs**
-* 🗄️ Working with **SQL, MySQL, JPA & Hibernate**
-* 🔐 Implementing **JWT authentication, authorization & API security**
-* 🧩 Interested in **backend architecture and scalable application design**
-* ☁️ Exploring **Docker, AWS & cloud deployment**
+* ☕ Building backend applications with **Java & Spring Boot**
+* 🌐 Developing **RESTful APIs** for real-world application workflows
+* 🔐 Implementing **Spring Security & JWT-based authentication**
+* 🗄️ Working with **MySQL, SQL, JPA & Hibernate**
+* 💳 Integrating third-party services such as **Razorpay Payments**
+* 🧩 Interested in **backend architecture, API design & scalable systems**
 * 🤖 Exploring **Generative AI integration with backend applications**
-* 🧠 Strengthening **Data Structures, Algorithms & problem-solving**
-* 💼 Looking for opportunities in **Java Backend / Software Engineering**
+* ☁️ Learning **Docker, AWS & cloud deployment**
+* 🧠 Strengthening **DSA, problem-solving & software engineering fundamentals**
+* 💼 Open to **Java Backend / Software Engineering opportunities**
 
 ---
 
-## ⚡ Core Engineering Skills
+## ⚡ Core Technical Expertise
 
-### Backend Development
+### ☕ Java
 
-`Java` · `Spring Boot` · `Spring MVC` · `REST APIs`
+`OOP` · `Collections` · `Exception Handling` · `Streams` · `Multithreading` · `Java 8+`
 
-### Security
+### 🌱 Spring Ecosystem
 
-`Spring Security` · `JWT` · `Authentication` · `Authorization`
+`Spring Boot` · `Spring MVC` · `Spring Security` · `Spring Data JPA`
 
-### Data & Persistence
+### 🌐 Backend Engineering
 
-`SQL` · `MySQL` · `JPA` · `Hibernate` · `Database Design`
+`REST APIs` · `HTTP` · `JSON` · `Layered Architecture` · `Authentication` · `Authorization` · `Validation` · `Exception Handling`
 
-### Programming Fundamentals
+### 🔐 Security
 
-`OOP` · `Collections` · `Exception Handling` · `Streams` · `Multithreading`
+`JWT` · `Spring Security` · `Role-Based Authorization` · `Protected Endpoints`
 
-### Engineering
+### 🗄️ Database & Persistence
 
-`Git` · `GitHub` · `Postman` · `IntelliJ IDEA`
+`SQL` · `MySQL` · `JPA` · `Hibernate` · `Entity Relationships` · `Database Design`
 
-### Cloud & Infrastructure
+### 💳 Integrations
+
+`Razorpay API` · `Generative AI APIs` · `Third-Party REST APIs`
+
+### 🧰 Development Tools
+
+`Git` · `GitHub` · `Postman` · `IntelliJ IDEA` · `VS Code`
+
+### ☁️ Cloud & Infrastructure
 
 `Docker` · `AWS` · `CI/CD`
-
-### AI Integration
-
-`Generative AI APIs` · `AI-powered REST APIs` · `Prompt-based Applications`
 
 ---
 
 ## 🛠️ Technology Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,git,github,docker,aws,postman,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,idea,vscode,docker,aws" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white"/>
 </p>
 
 ---
 
-## 🔭 What I Build
+# 🚀 Featured Project
 
-I primarily work on **backend-focused applications** where the emphasis is on the engineering behind the application rather than just the UI.
+## 🏠 Airbnb-Like Booking System
 
-My projects typically involve:
+A backend-focused property booking platform inspired by Airbnb, built with **Java and Spring Boot**.
+
+The project focuses on implementing real-world backend workflows including authentication, property management, booking, database persistence, and online payments.
+
+### 🔑 Key Features
+
+* 🔐 JWT-based authentication & authorization
+* 👤 User registration, login and role-based access
+* 🏠 Property listing and management
+* 🔎 Property search and filtering
+* 📅 Booking and reservation management
+* 💳 **Razorpay payment integration**
+* 🗄️ MySQL persistence using JPA/Hibernate
+* 🛡️ Protected REST API endpoints
+* ✅ Request validation
+* ⚠️ Global exception handling
+
+### 🧱 Architecture
 
 ```text
-Client
-   ↓
-REST API
-   ↓
-Controller
-   ↓
-Service / Business Logic
-   ↓
-Repository
-   ↓
-Database
+                    Client
+                      │
+                      ▼
+                REST Controllers
+                      │
+                      ▼
+                 Service Layer
+                      │
+             ┌────────┴────────┐
+             ▼                 ▼
+       Business Logic      Validation
+             │
+             ▼
+        Repository Layer
+             │
+             ▼
+        JPA / Hibernate
+             │
+             ▼
+            MySQL
 ```
 
-with additional concerns such as:
+### 💳 Payment Flow
 
-`Authentication` · `Authorization` · `Validation` · `Exception Handling` · `API Design`
+```text
+Booking Request
+      │
+      ▼
+Booking Validation
+      │
+      ▼
+Razorpay Order
+      │
+      ▼
+Payment
+      │
+      ▼
+Payment Verification
+      │
+      ▼
+Booking Confirmation
+```
 
----
+### 🛠️ Built With
 
-## 🚀 Featured Projects
-
-### 🏠 Airbnb-Like Booking System
-
-A backend-focused booking platform inspired by Airbnb.
-
-**Built with:**
-`Java` · `Spring Boot` · `Spring Security` · `JWT` · `JPA` · `Hibernate` · `MySQL`
-
-**Key implementations:**
-
-* JWT authentication & authorization
-* User and property management
-* Property search and filtering
-* Booking and reservation workflows
-* Payment gateway integration
-* Role-based access control
-* Request validation
-* Global exception handling
-* RESTful API architecture
+`Java` · `Spring Boot` · `Spring Security` · `JWT` · `JPA` · `Hibernate` · `MySQL` · `Razorpay API` · `REST APIs`
 
 [View Project →](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
 
 ---
 
-## 🤖 Generative AI + Backend
+# 🤖 Generative AI + Backend
 
-I'm interested in the intersection of **traditional backend engineering and Generative AI**.
-
-Rather than treating AI as a separate application layer, I'm exploring how AI capabilities can be integrated into backend systems through APIs.
+I'm exploring how **Generative AI can be integrated into conventional backend applications** through APIs and service-layer integrations.
 
 Areas of interest:
 
@@ -137,12 +171,12 @@ Areas of interest:
 * AI-powered REST endpoints
 * Text generation
 * Sentiment analysis
-* Prompt-based workflows
+* Prompt-based backend workflows
 * AI features inside Java/Spring Boot applications
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 ```text
 Java
@@ -153,14 +187,14 @@ Java
  └── Modern Java
 
 Spring Boot
- ├── REST API Development
+ ├── REST APIs
  ├── Spring Security
  ├── JPA / Hibernate
  ├── Validation
- └── Application Architecture
+ └── Backend Architecture
 
-Backend Engineering
- ├── Database Design
+Engineering
+ ├── SQL & Database Design
  ├── API Design
  ├── Testing
  └── System Design Fundamentals
@@ -173,9 +207,9 @@ Infrastructure
 
 ---
 
-## 🧠 Problem Solving
+# 🧠 Problem Solving
 
-I practice **Data Structures & Algorithms** to strengthen algorithmic thinking and improve the efficiency and reliability of the software I build.
+I practice **Data Structures & Algorithms** to strengthen algorithmic thinking and improve the efficiency of the software I build.
 
 <p align="left">
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
@@ -185,58 +219,61 @@ I practice **Data Structures & Algorithms** to strengthen algorithmic thinking a
 
 ---
 
-## 📈 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
 
 <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Career Focus
+# 🎯 Career Focus
 
-I'm looking to work with teams where I can contribute to **real backend systems**, learn production engineering practices, and grow into a well-rounded software engineer.
+I'm looking for opportunities where I can contribute to **real-world backend systems**, work with experienced engineers, and grow through production-level engineering problems.
 
-**Interested in:**
+**Primary interests**
 
-`Java Backend` · `Spring Boot` · `REST APIs` · `SQL` · `Cloud` · `Software Engineering`
+`Java Backend` · `Spring Boot` · `REST APIs` · `SQL` · `Backend Architecture` · `Cloud`
 
 ---
 
-## 📫 Let's Connect
+# 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=111111"/>
-  </a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=111111"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <sub>Java · Spring Boot · Backend Engineering · Building & Learning</sub>
+  <sub>Java · Spring Boot · REST APIs · SQL · Security · Payments</sub>
 </p>
+
 
 
 
