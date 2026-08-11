@@ -1,103 +1,94 @@
 # Hi, I'm Sujal 👋
 
-### Java Backend Developer · Spring Boot · REST APIs · SQL
+### Java Backend Developer | Spring Boot | REST APIs | AI Integration
 
-I'm a Computer Science Engineering graduate focused on **backend development with Java and Spring Boot**.
+I'm a Computer Science Engineering graduate focused on **Java backend development** with Spring Boot.
 
-I build backend applications around **REST APIs, authentication & authorization, database persistence, and third-party service integrations**. My recent work includes building an **Airbnb-like booking system with JWT security and Razorpay payment integration**.
+I build backend applications around **REST APIs, authentication & authorization, database persistence, payment integrations, and AI-powered services**.
 
-Currently, I'm focused on becoming a stronger backend engineer by going deeper into **Java, Spring Boot, database design, API development, security, and software engineering fundamentals**.
+My recent work includes an **Airbnb-Like Booking System** with JWT authentication, Spring Security, MySQL, JPA/Hibernate and Razorpay, along with an **AI-Powered Knowledge Assistant** built with Spring AI, RAG, embeddings, vector search and AI tool calling.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+Currently focused on becoming a stronger backend engineer by building practical systems and going deeper into backend architecture, security, databases, and AI integration.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **Computer Science Engineering** graduate
-* ☕ Building backend applications with **Java & Spring Boot**
-* 🌐 Developing **RESTful APIs** for real-world application workflows
-* 🔐 Implementing **Spring Security & JWT-based authentication**
+* 🎓 Computer Science Engineering graduate
+* ☕ Focused on **Java & Spring Boot**
+* 🌐 Building **RESTful backend APIs**
+* 🔐 Implementing **Spring Security & JWT authentication**
 * 🗄️ Working with **MySQL, SQL, JPA & Hibernate**
-* 💳 Integrating third-party services such as **Razorpay Payments**
-* 🧩 Interested in **backend architecture, API design & scalable systems**
-* 🤖 Exploring **Generative AI integration with backend applications**
-* ☁️ Learning **Docker, AWS & cloud deployment**
-* 🧠 Strengthening **DSA, problem-solving & software engineering fundamentals**
-* 💼 Open to **Java Backend / Software Engineering opportunities**
+* 💳 Integrated **Razorpay payment processing**
+* 🤖 Building with **Spring AI & Generative AI APIs**
+* 🔎 Exploring **RAG, embeddings & vector similarity search**
+* 🛠️ Working with **AI tool calling & backend integrations**
+* 🐳 Exploring **Docker, AWS & cloud deployment**
+* 🧠 Practicing **DSA & problem solving**
+* 💼 Interested in **Java Backend / Software Engineering roles**
 
 ---
 
-## ⚡ Core Technical Expertise
+## ⚡ Technical Stack
 
-### ☕ Java
+### Backend
 
-`OOP` · `Collections` · `Exception Handling` · `Streams` · `Multithreading` · `Java 8+`
+`Java` · `Spring Boot` · `Spring MVC` · `REST APIs`
 
-### 🌱 Spring Ecosystem
+### Security
 
-`Spring Boot` · `Spring MVC` · `Spring Security` · `Spring Data JPA`
+`Spring Security` · `JWT` · `Authentication` · `Authorization`
 
-### 🌐 Backend Engineering
+### Database & Persistence
 
-`REST APIs` · `HTTP` · `JSON` · `Layered Architecture` · `Authentication` · `Authorization` · `Validation` · `Exception Handling`
+`MySQL` · `SQL` · `JPA` · `Hibernate`
 
-### 🔐 Security
+### AI Engineering
 
-`JWT` · `Spring Security` · `Role-Based Authorization` · `Protected Endpoints`
+`Spring AI` · `LLM Integration` · `RAG` · `Embeddings` · `Vector Search` · `AI Tool Calling`
 
-### 🗄️ Database & Persistence
+### Integrations
 
-`SQL` · `MySQL` · `JPA` · `Hibernate` · `Entity Relationships` · `Database Design`
+`Razorpay API` · `OpenAI APIs` · `Third-Party REST APIs`
 
-### 💳 Integrations
+### Development
 
-`Razorpay API` · `Generative AI APIs` · `Third-Party REST APIs`
+`Git` · `GitHub` · `Postman` · `IntelliJ IDEA` · `Maven`
 
-### 🧰 Development Tools
-
-`Git` · `GitHub` · `Postman` · `IntelliJ IDEA` · `VS Code`
-
-### ☁️ Cloud & Infrastructure
+### Currently Exploring
 
 `Docker` · `AWS` · `CI/CD`
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,idea,vscode,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,postman,idea,vscode,maven,docker,aws" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Razorpay-3395FF?style=flat-square&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 ## 🏠 Airbnb-Like Booking System
 
 A backend-focused property booking platform inspired by Airbnb, built with **Java and Spring Boot**.
 
-The project focuses on implementing real-world backend workflows including authentication, property management, booking, database persistence, and online payments.
+The application implements real-world backend workflows including authentication, authorization, property management, booking, database persistence and online payments.
 
-### 🔑 Key Features
+### Key Features
 
 * 🔐 JWT-based authentication & authorization
-* 👤 User registration, login and role-based access
+* 👤 User registration and login
 * 🏠 Property listing and management
 * 🔎 Property search and filtering
 * 📅 Booking and reservation management
@@ -107,32 +98,31 @@ The project focuses on implementing real-world backend workflows including authe
 * ✅ Request validation
 * ⚠️ Global exception handling
 
-### 🧱 Architecture
+### Architecture
 
 ```text
-                    Client
-                      │
-                      ▼
-                REST Controllers
-                      │
-                      ▼
-                 Service Layer
-                      │
-             ┌────────┴────────┐
-             ▼                 ▼
-       Business Logic      Validation
-             │
-             ▼
-        Repository Layer
-             │
-             ▼
-        JPA / Hibernate
-             │
-             ▼
-            MySQL
+Client
+  │
+  ▼
+REST Controllers
+  │
+  ▼
+Service Layer
+  │
+  ├── Business Logic
+  └── Validation
+  │
+  ▼
+Repository Layer
+  │
+  ▼
+JPA / Hibernate
+  │
+  ▼
+MySQL
 ```
 
-### 💳 Payment Flow
+### Payment Flow
 
 ```text
 Booking Request
@@ -141,101 +131,220 @@ Booking Request
 Booking Validation
       │
       ▼
-Razorpay Order
+Razorpay Integration
       │
       ▼
-Payment
+Payment Processing
       │
       ▼
-Payment Verification
+Payment Confirmation
       │
       ▼
-Booking Confirmation
+Booking Completion
 ```
 
-### 🛠️ Built With
-
+**Stack:**
 `Java` · `Spring Boot` · `Spring Security` · `JWT` · `JPA` · `Hibernate` · `MySQL` · `Razorpay API` · `REST APIs`
 
-[View Project →](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY)
+[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/YOUR_BOOKING_REPOSITORY)
 
 ---
 
-# 🤖 Generative AI + Backend
+## 🤖 AI-Powered Knowledge Assistant
 
-I'm exploring how **Generative AI can be integrated into conventional backend applications** through APIs and service-layer integrations.
+An AI-powered backend application built with **Java, Spring Boot and Spring AI**, combining LLM interaction with **Retrieval-Augmented Generation (RAG)** and AI tool calling.
 
-Areas of interest:
+The application demonstrates how AI capabilities can be integrated into a conventional Spring Boot backend.
 
-* Generative AI API integration
-* AI-powered REST endpoints
-* Text generation
-* Sentiment analysis
-* Prompt-based backend workflows
-* AI features inside Java/Spring Boot applications
+### AI Capabilities
+
+* 🧠 **LLM Integration** using OpenAI through Spring AI
+* 🔎 **Retrieval-Augmented Generation (RAG)**
+* 🧬 **Text embeddings** using OpenAI embedding models
+* 📐 **Vector similarity search** using `VectorStore`
+* 📚 Domain-specific knowledge retrieval
+* 🛠️ **AI Tool Calling** using Spring AI `@Tool`
+* 📦 **Structured AI output** mapped into Java objects
+* 📝 Context-aware prompt construction
+
+### RAG Pipeline
+
+```text
+User Question
+      │
+      ▼
+Query Embedding
+      │
+      ▼
+Vector Similarity Search
+      │
+      ▼
+Relevant Context
+      │
+      ▼
+Context-Aware Prompt
+      │
+      ▼
+OpenAI LLM
+      │
+      ▼
+Generated Answer
+```
+
+### AI Tool Calling
+
+```text
+                 User
+                   │
+                   ▼
+              ChatClient
+                   │
+                   ▼
+                  LLM
+                   │
+          ┌────────┴────────┐
+          │                 │
+    Normal Response     Tool Required
+                            │
+                            ▼
+                     Java @Tool Method
+                            │
+                            ▼
+                       Tool Result
+                            │
+                            ▼
+                           LLM
+                            │
+                            ▼
+                      Final Response
+```
+
+### Implemented Tools
+
+* 🌦️ Weather information tool
+* 🍽️ Food/menu interaction tool
+
+### Backend Structure
+
+```text
+src/main/java
+│
+└── com.logic
+    │
+    ├── config
+    │   └── AIConfig
+    │
+    ├── controller
+    │   └── ChatController
+    │
+    ├── service
+    │   ├── AIService
+    │   └── RAGService
+    │
+    ├── dto
+    │   └── Joke
+    │
+    └── tool
+        ├── WeatherService
+        └── FoodService
+```
+
+**Stack:**
+`Java 17` · `Spring Boot` · `Spring AI` · `OpenAI` · `RAG` · `Embeddings` · `VectorStore` · `Tool Calling` · `REST APIs` · `Maven`
+
+[View Repository →](https://github.com/YOUR_GITHUB_USERNAME/YOUR_AI_REPOSITORY)
+
+---
+
+# 🧠 Backend + AI
+
+My main technical interest is at the intersection of **backend engineering and practical AI integration**.
+
+```text
+                    Backend Engineering
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+      Spring Boot       Databases        Security
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                     REST APIs
+                           │
+                           ▼
+                    AI Integration
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+         LLM              RAG          Tool Calling
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                    AI Applications
+```
+
+The goal is to build systems where AI is integrated as a practical backend capability rather than simply wrapping an LLM in a chat interface.
 
 ---
 
 # 📚 Currently Learning
 
-```text
-Java
- ├── Advanced OOP
- ├── Collections
- ├── Streams
- ├── Multithreading
- └── Modern Java
+### Backend
 
-Spring Boot
- ├── REST APIs
- ├── Spring Security
- ├── JPA / Hibernate
- ├── Validation
- └── Backend Architecture
+`Spring Boot` · `Spring Security` · `JPA/Hibernate` · `REST API Design`
 
-Engineering
- ├── SQL & Database Design
- ├── API Design
- ├── Testing
- └── System Design Fundamentals
+### Data & Architecture
 
-Infrastructure
- ├── Docker
- ├── AWS
- └── CI/CD
-```
+`SQL` · `Database Design` · `API Design` · `Testing` · `System Design`
+
+### AI
+
+`RAG` · `Vector Databases` · `AI Application Architecture` · `LLM Integration`
+
+### Infrastructure
+
+`Docker` · `AWS` · `CI/CD`
+
+### Problem Solving
+
+`Data Structures & Algorithms` · `Problem Solving`
 
 ---
-
 
 # 📊 GitHub Activity
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  />
 
-<img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"
+/>
 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"
+  />
 </p>
 
 ---
 
 # 🎯 Career Focus
 
-I'm looking for opportunities where I can contribute to **real-world backend systems**, work with experienced engineers, and grow through production-level engineering problems.
+I'm looking for opportunities where I can contribute to **real-world backend systems**, learn production engineering practices, and grow as a software engineer.
 
-**Primary interests**
+### Interested In
 
-`Java Backend` · `Spring Boot` · `REST APIs` · `SQL` · `Backend Architecture` · `Cloud`
+`Java Backend` · `Spring Boot` · `REST APIs` · `SQL` · `Backend Architecture` · `AI Integration`
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <p align="left">
 
@@ -260,8 +369,9 @@ I'm looking for opportunities where I can contribute to **real-world backend sys
 ---
 
 <p align="center">
-  <sub>Java · Spring Boot · REST APIs · SQL · Security · Payments</sub>
+  <sub>Java · Spring Boot · Backend Engineering · AI Integration</sub>
 </p>
+
 
 
 
