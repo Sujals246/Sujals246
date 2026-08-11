@@ -1,177 +1,176 @@
-<div align="center">
+# Hi, I'm Sujal 👋
 
-# 👋 Hi, I'm Sujal
+### Java Backend Developer | Spring Boot | REST APIs | Generative AI
 
-### 🚀 Java Backend Developer | Spring Boot | REST APIs | Generative AI
+I'm a Computer Science Engineering graduate focused on backend development with **Java and Spring Boot**.
 
-Building backend applications with **Java & Spring Boot** with a focus on
-REST APIs, secure authentication, database-driven systems, payment integrations
-and AI-powered applications.
+I enjoy building backend applications, designing RESTful APIs, working with relational databases, implementing authentication and payment workflows, and integrating Generative AI capabilities into software applications.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sujal_Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Sujals246-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujals246)
-
-</div>
+Currently focused on strengthening my backend engineering fundamentals and building practical, production-oriented applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-```java
-public class Sujal {
+- 💻 Focused on **Java Backend Development**
+- ☕ Building backend applications with **Java & Spring Boot**
+- 🔗 Developing and consuming **RESTful APIs**
+- 🗄️ Working with **MySQL, SQL & JPA**
+- 🔐 Implementing **JWT-based authentication**
+- 💳 Integrating third-party services such as **Razorpay**
+- 🤖 Exploring **Generative AI, RAG & AI application development**
+- ☁️ Expanding my knowledge of **AWS & Cloud Technologies**
+- 🧠 Continuously improving my **DSA and problem-solving skills**
 
-    private final String role = "Java Backend Developer";
+---
 
-    private final String[] focus = {
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "Backend Engineering",
-        "Generative AI"
-    };
+## 🛠️ Technical Skills
 
-    private final String[] interests = {
-        "Backend Architecture",
-        "Database Systems",
-        "API Security",
-        "Cloud Technologies",
-        "AI-powered Applications"
-    };
+### Languages
+`Java` `JavaScript` `SQL` `HTML` `CSS`
 
-    private final String approach =
-        "Learn → Build → Debug → Understand → Improve";
-}
-💻 Focused on Java Backend Development
-☕ Building applications with Java & Spring Boot
-🔗 Designing and developing RESTful APIs
-🔐 Implementing Spring Security & JWT authentication
-💳 Working with Razorpay payment integration
-🗄️ Building database-driven applications with MySQL, JPA & Hibernate
-🤖 Exploring Generative AI, RAG & Spring AI
-☁️ Expanding my knowledge of AWS & Cloud Technologies
-🧠 Continuously improving DSA & problem-solving skills
-🛠️ Technical Skills
-🔴 Languages & Core Technologies
-<p align="center"> <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
-🌱 Backend Development
-<p align="center"> <img src="https://img.shields.io/badge/Spring_Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_MVC-Web_Layer-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Data_JPA-Persistence-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/REST_APIs-Backend-009688?style=for-the-badge"/> </p>
-🔐 Security & Authentication
-<p align="center"> <img src="https://img.shields.io/badge/Spring_Security-Authentication-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/BCrypt-Password_Hashing-555555?style=for-the-badge"/> </p>
-Concepts:
-Stateless Authentication · JWT Filters · Role-Based Authorization · Password Hashing · Secured APIs
-🗄️ Databases & Persistence
-<p align="center"> <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-Persistence-59666C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Hibernate-ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> </p>
+### Backend Development
+`Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate` `REST APIs`
 
-Concepts:
-Entity Relationships · JPQL · Custom Queries · Pagination · Transactions · Database Locking · ORM
+### Databases
+`MySQL` `SQL`
 
-💳 Payments & Integrations
-<p align="center"> <img src="https://img.shields.io/badge/Razorpay-Payment_Gateway-3395FF?style=for-the-badge&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/REST-Third_Party_Integration-009688?style=for-the-badge"/> </p>
+### Authentication & Integration
+`JWT Authentication` `Razorpay` `REST API Integration`
 
-Concepts:
-Order Creation · Payment Verification · Webhooks · Refund Handling · Payment Lifecycle
+### Generative AI
+`Spring AI` `OpenAI` `RAG` `Vector Embeddings` `Tool Calling`
 
-🤖 Generative AI
-<p align="center"> <img src="https://img.shields.io/badge/Spring_AI-GenAI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-Integration-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-7B61FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector_Embeddings-AI-8A2BE2?style=for-the-badge"/> </p>
+### Development Tools
+`Git` `GitHub` `IntelliJ IDEA` `VS Code` `Postman`
 
-Concepts:
-RAG · Vector Embeddings · Knowledge Retrieval · Tool Calling · AI Application Integration
-⚛️ Frontend
-<p align="center"> <img src="https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-Web-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
+---
 
-Concepts:
-React Hooks · Context API · Component-Based Architecture · Fetch API · Local Storage
+## 🚀 Featured Projects
 
-🧰 Development Tools
-<p align="center"> <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
-🧠 Core Competencies
-Category	Skills
-Backend Development	Java, Spring Boot, Spring MVC, REST APIs, Spring Data JPA
-Architecture	Layered Architecture, Controller-Service-Repository, DTO Pattern, Dependency Injection, Separation of Concerns
-Security	Spring Security, JWT, Stateless Authentication, Role-Based Authorization, BCrypt
-Database	MySQL, SQL, JPA, Hibernate ORM, Entity Relationships, JPQL, Pagination
-Transactions	Transaction Management, Database Locking, Inventory Consistency
-System Logic	Booking Systems, Inventory Management, Dynamic Pricing, Payment Workflows
-Integrations	Razorpay, REST API Integration, Webhooks, Payment Verification
-Design Patterns	Strategy Pattern, Interface-Based Design, Service Layer Pattern
-Generative AI	Spring AI, OpenAI, RAG, Vector Embeddings, Tool Calling
-Frontend	React, JavaScript, Vite, React Hooks, Context API
-Development	Git, GitHub, Maven, Postman, IntelliJ IDEA
-Problem Solving	Data Structures, Algorithms, Complexity Analysis
-🚀 Featured Projects
-🏨 Airbnb Booking System
+### 🏨 Airbnb Booking System
 
-A full-stack hotel booking platform built using Java, Spring Boot, MySQL and React.
+A hotel booking management system built with **Java and Spring Boot**, designed around RESTful backend services and real-world booking workflows.
 
-Key Engineering Features
-RESTful APIs for hotel, room, inventory and booking management
-JWT authentication with Spring Security
-Role-based authorization
-MySQL persistence using JPA & Hibernate
-Razorpay payment gateway integration
-Payment verification and refund workflows
-Razorpay webhook handling
-Transactional booking workflows
-Pessimistic database locking for concurrent inventory operations
-Dynamic pricing using a strategy-based architecture
-Scheduled pricing updates
-DTO-based API architecture
-Centralized exception handling
-OpenAPI / Swagger documentation
+#### Key Features
 
-Stack:
-Java 17 Spring Boot Spring Security JWT JPA Hibernate MySQL Razorpay React Vite
+- RESTful API architecture
+- JWT-based user authentication
+- User and booking management
+- Hotel and room management
+- MySQL database integration
+- JPA/Hibernate-based persistence
+- **Razorpay payment gateway integration**
+- Payment order creation and payment verification
+- Backend validation and exception handling
+- API testing with Postman
 
-🔗 View Project →
-🤖 AI-Powered Knowledge Assistant
+**Tech Stack**
 
-An AI-powered application built using Java, Spring Boot and Spring AI, exploring modern Generative AI application patterns.
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `JWT` `Razorpay` `REST APIs`
 
-Key Engineering Features
-OpenAI integration
-Retrieval-Augmented Generation
-Vector embeddings
-Knowledge retrieval
-Tool calling
-AI-powered responses
-Backend API integration
+🔗 **Repository:** [Airbnb Booking System](YOUR_AIRBNB_REPOSITORY_URL)
 
-Stack:
-Java Spring Boot Spring AI OpenAI RAG Vector Embeddings
+---
 
-🔗 View Project →
+### 🤖 AI-Powered Knowledge Assistant
 
-📚 Currently Exploring
-Spring Boot          ████████████████████  Backend Engineering
-Spring Security      ██████████████████░░  API Security
-AWS & Cloud          ██████████████░░░░░░  Cloud Fundamentals
-Generative AI        █████████████████░░░  AI Applications
-System Design        ████████████░░░░░░░░  Architecture
-DSA                  ███████████████░░░░░  Problem Solving
-🎯 Career Focus
+An AI-powered knowledge assistant built with **Spring Boot and Spring AI**, combining large language models with retrieval-based knowledge access.
 
-I'm looking to grow as a Java Backend Developer / Software Engineer and work on real-world systems involving backend services, APIs, databases, authentication, integrations and scalable application design.
+#### Key Features
 
-Primary Focus
+- OpenAI integration
+- Retrieval-Augmented Generation (**RAG**)
+- Vector embeddings
+- Knowledge retrieval
+- Tool calling
+- AI-powered question answering
+- Backend API integration
 
-Java · Spring Boot · Backend Engineering · REST APIs · SQL · Cloud · Generative AI
+**Tech Stack**
 
-🧩 Engineering Philosophy
+`Java` `Spring Boot` `Spring AI` `OpenAI` `RAG` `Vector Embeddings` `Tool Calling`
 
-Learn → Build → Debug → Understand → Improve
+🔗 **Repository:** [AI-Powered Knowledge Assistant](YOUR_AI_REPOSITORY_URL)
 
-I believe the strongest way to learn software engineering is by building complete applications and understanding the engineering problems that emerge when authentication, databases, APIs, business logic, external services and users all interact with each other.
+---
 
-<div align="center">
-🤝 Let's Connect
+### 🎓 Student Management System
 
+A student management application focused on implementing fundamental CRUD operations and application-level data management.
 
+#### Key Features
 
+- Student management
+- CRUD operations
+- Structured application flow
+- Form-based data handling
+- Frontend fundamentals
 
-<br>
+**Tech Stack**
+
+`HTML` `CSS`
+
+🔗 **Repository:** [Student Management System](YOUR_STUDENT_REPOSITORY_URL)
+
+---
+
+## 📚 Current Focus
+
+I'm currently working on improving my knowledge in:
+
+- Advanced **Spring Boot**
+- REST API design and development
+- Backend architecture
+- Authentication and authorization
+- Database design and optimization
+- Generative AI integration
+- AWS and Cloud fundamentals
+- Data Structures & Algorithms
+- Software engineering best practices
+
+---
+
+## 🎯 Career Objective
+
+I'm looking to start my career as a **Java Backend Developer / Software Engineer** and contribute to real-world software systems.
+
+I'm particularly interested in opportunities involving:
+
+**Java • Spring Boot • Backend Development • REST APIs • SQL • Cloud • Generative AI**
+
+My goal is to continuously improve as a software engineer by working on real production systems, solving meaningful engineering problems, and building reliable and maintainable software.
+
+---
+
+## 💡 Engineering Approach
+
+> **Learn → Build → Break → Debug → Improve**
+
+I believe the best way to understand software engineering is by building complete applications and working through real implementation challenges.
+
+My projects focus on applying concepts such as:
+
+- API design
+- Business logic
+- Database persistence
+- Authentication
+- Third-party API integration
+- Payment processing
+- AI integration
+- Error handling
+- Maintainable backend architecture
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers, recruiters, and people working on interesting software engineering projects.
+
+📌 **LinkedIn:** [Sujal Saini](YOUR_LINKEDIN_URL)
+
+💻 **GitHub:** [Sujals246](https://github.com/Sujals246)
+
+---
 
 ⭐ Thanks for visiting my profile!
-
-</div> ```
