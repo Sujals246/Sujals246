@@ -27,7 +27,7 @@ Currently focused on strengthening my backend engineering fundamentals and build
 ## 🛠️ Technical Skills
 
 ### Languages
-`Java` `JavaScript` `SQL` `HTML` `CSS`
+`Java` `SQL` `HTML` `CSS`
 
 ### Backend Development
 `Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate` `REST APIs`
@@ -48,7 +48,7 @@ Currently focused on strengthening my backend engineering fundamentals and build
 
 ## 🚀 Featured Projects
 
-### 🏨 Airbnb Booking System
+### 🏨 Airbnb like Hotel Booking System
 
 A hotel booking management system built with **Java and Spring Boot**, designed around RESTful backend services and real-world booking workflows.
 
