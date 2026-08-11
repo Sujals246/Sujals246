@@ -207,17 +207,6 @@ Infrastructure
 
 ---
 
-# 🧠 Problem Solving
-
-I practice **Data Structures & Algorithms** to strengthen algorithmic thinking and improve the efficiency of the software I build.
-
-<p align="left">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=111111"/>
-  </a>
-</p>
-
----
 
 # 📊 GitHub Activity
 
