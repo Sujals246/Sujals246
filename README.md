@@ -6,7 +6,7 @@ I'm a Computer Science Engineering graduate focused on **Java backend developmen
 
 I build backend applications around **REST APIs, authentication & authorization, database persistence, payment integrations, and AI-powered services**.
 
-My recent work includes an **Airbnb-Like Booking System** with JWT authentication, Spring Security, MySQL, JPA/Hibernate and Razorpay, along with an **AI-Powered Knowledge Assistant** built with Spring AI, RAG, embeddings, vector search and AI tool calling.
+My recent work includes an **StayBook - Hotel Booking Platform** with JWT authentication, Spring Security, MySQL, JPA/Hibernate and Razorpay, along with an **QuerHub - AI-Powered Knowledge Assistant** built with Spring AI, RAG, embeddings, vector search and AI tool calling.
 
 Currently focused on becoming a stronger backend engineer by building practical systems and going deeper into backend architecture, security, databases, and AI integration.
 
@@ -79,7 +79,7 @@ Currently focused on becoming a stronger backend engineer by building practical 
 
 # 🚀 Featured Projects
 
-## 🏠 Airbnb-Like Booking System
+## 🏠 StayBook - Hotel booking Platform
 
 A backend-focused property booking platform inspired by Airbnb, built with **Java and Spring Boot**.
 
@@ -150,7 +150,7 @@ Booking Completion
 
 ---
 
-## 🤖 AI-Powered Knowledge Assistant
+## 🤖 QueryHub AI-Powered Knowledge Assistant
 
 An AI-powered backend application built with **Java, Spring Boot and Spring AI**, combining LLM interaction with **Retrieval-Augmented Generation (RAG)** and AI tool calling.
 
